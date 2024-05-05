@@ -1,0 +1,13 @@
+---
+title: Book Reviews
+---
+<h1>Book Reviews</h1>
+
+<ul>
+  {% for book in site.books %}
+    <li>
+      <h2>{{ book.title }}</h2>
+      <p>{{ book.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
