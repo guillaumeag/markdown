@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Art of Game Design Book Review"
 date: 2024-05-05
 category: "book"
