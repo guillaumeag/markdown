@@ -1,5 +1,6 @@
 title: Static Website with Markdown
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget nunc turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+author: GG
 theme: minima
 permalink: none
 plugins:
