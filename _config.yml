@@ -2,3 +2,5 @@ title: Static Website with Markdown
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget nunc turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 theme: minima
 permalink: none
+plugins:
+  - jekyll-sitemap
